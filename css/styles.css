@@ -1,0 +1,13 @@
+body {
+  background-color: #bedbbb;
+}
+hr {
+border-style: dotted none none none;/*everything on the website are boxes (pesticide tool) cloclwise we did dotted none etc. doubt refer course,33,inline css */
+border-width: 7px;
+border-color: #707070;
+width: 5%;
+}
+  H1 {color: #4a503d;
+  }
+    H3 {color: #334443;
+    }
